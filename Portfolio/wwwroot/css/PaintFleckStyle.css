@@ -1,0 +1,296 @@
+.fleck-light {
+    --fleck-seed: 13453;
+    --fleck-count: 500;
+    --fleck-size-base: 5px;
+    --fleck-color-1: #ffb5d7;
+    --fleck-color-2: #a6bfeb;
+    --fleck-color-3: #cce0ee;
+    --fleck-color-4: #ebaedc;
+
+    --background-color: #ecf0f3;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+    background-size: 400% 400%;
+}
+
+
+.fleck-dark {
+    --fleck-seed: 13453;
+    --fleck-count: 100;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #e8ad3c;
+    --fleck-color-2: #a96c1a;
+    --fleck-color-3: #d7b54e;
+    --fleck-color-4: #e2b84b;
+    --fleck-color-5: #d6cdc4;
+
+    --background-color: #1b1918;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+    background-size: 400% 400%;
+}
+
+.fleck-pink {
+    --fleck-seed: 123456;
+    --fleck-count: 500;
+    --fleck-size-base: 5px;
+    --fleck-color-1: #ffb5d7;
+    --fleck-color-2: #a6bfeb;
+    --fleck-color-3: #cce0ee;
+    --fleck-color-4: #ebaedc;
+
+    --background-color: #ecf0f3;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+    background-size: 400% 400%;
+}
+
+
+.fleck-gold {
+    --fleck-seed: 123453;
+    --fleck-count: 680;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #e8ad3c;
+    --fleck-color-2: #a96c1a;
+    --fleck-color-3: #d7b54e;
+    --fleck-color-4: #e2b84b;
+    --fleck-color-5: #d6cdc4;
+
+    --background-color: #1b1918;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+    background-size: 400% 400%;
+}
+
+.fleck-green {
+    --fleck-seed: 123450;
+    --fleck-count: 540;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #58835c;
+    --fleck-color-2: #abb16b;
+    --fleck-color-3: #4a6539;
+    --fleck-color-4: #074a41;
+
+    --background-color: #102222;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+
+}
+
+.fleck-blue {
+    --fleck-seed: 123449;
+    --fleck-count: 580;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #0193c1;
+    --fleck-color-2: #74d8e6;
+    --fleck-color-3: #0bc0e0;
+    --fleck-color-4: #3ddaf5;
+    --fleck-color-5: #e2f9fe;
+    --fleck-color-6: #02313f;
+
+    --background-color: #84dce2;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+    background-size: 400% 400%;
+}
+
+.fleck-grunge {
+    --fleck-seed: 123448;
+    --fleck-count: 580;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #000001;
+    --fleck-color-2: #171920;
+    --fleck-color-3: #f9be41;
+    --fleck-color-4: #fff;
+
+    --background-color: #fec536;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+    background-size: 400% 400%;
+}
+
+.fleck-red {
+    --fleck-seed: 123447;
+    --fleck-count: 540;
+    --fleck-size-base: 4px;
+
+    --fleck-color-1: #fe9f00;
+    --fleck-color-2: #100b10;
+    --fleck-color-3: #bd0700;
+    --fleck-color-4: #ffe2e0;
+
+    --background-color: #ff380c;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+    background-size: 400% 400%;
+}
+
+.bglight {
+    --fleck-seed: 163453;
+    --fleck-count: 4000;
+    --fleck-size-base: 5px;
+    --fleck-color-1: #ffb5d7;
+    --fleck-color-2: #a6bfeb;
+    --fleck-color-3: #cce0ee;
+    --fleck-color-4: #ebaedc;
+
+    --background-color: #ecf0f3;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+}
+
+
+.bgdark {
+    --fleck-seed: 123453;
+    --fleck-count: 400;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #e8ad3c;
+    --fleck-color-2: #a96c1a;
+    --fleck-color-3: #d7b54e;
+    --fleck-color-4: #e2b84b;
+    --fleck-color-5: #d6cdc4;
+
+    --background-color: #2a2b2f;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+}
+
+.bgroyal-blue {
+    --fleck-seed: 123449;
+    --fleck-count: 600;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #e8ad3c;
+    --fleck-color-2: #bd0700;
+    --fleck-color-3: #d400d4;
+    --fleck-color-4: #00ccff;
+    --fleck-color-5: #58835c;
+    --fleck-color-6: #ffb5d7;
+
+    --background-color: #0e1538;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+}
+
+
+.bgpink {
+    --fleck-seed: 123456;
+    --fleck-count: 500;
+    --fleck-size-base: 5px;
+    --fleck-color-1: #ffb5d7;
+    --fleck-color-2: #a6bfeb;
+    --fleck-color-3: #cce0ee;
+    --fleck-color-4: #ebaedc;
+
+    --background-color: #ad0956;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+}
+
+
+.bggold {
+    --fleck-seed: 123453;
+    --fleck-count: 680;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #e8ad3c;
+    --fleck-color-2: #a96c1a;
+    --fleck-color-3: #d7b54e;
+    --fleck-color-4: #e2b84b;
+    --fleck-color-5: #d6cdc4;
+
+    --background-color: #1b1918;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+}
+
+.bggreen {
+    --fleck-seed: 123450;
+    --fleck-count: 540;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #58835c;
+    --fleck-color-2: #abb16b;
+    --fleck-color-3: #4a6539;
+    --fleck-color-4: #074a41;
+
+    --background-color: #102222;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+}
+
+.bgblue {
+    --fleck-seed: 123449;
+    --fleck-count: 580;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #0193c1;
+    --fleck-color-2: #74d8e6;
+    --fleck-color-3: #0bc0e0;
+    --fleck-color-4: #3ddaf5;
+    --fleck-color-5: #e2f9fe;
+    --fleck-color-6: #02313f;
+
+    --background-color: #84dce2;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+}
+
+.bgyellow {
+    --fleck-seed: 123448;
+    --fleck-count: 580;
+    --fleck-size-base: 4px;
+    --fleck-color-1: #000001;
+    --fleck-color-2: #171920;
+    --fleck-color-3: #f9be41;
+    --fleck-color-4: #fff;
+
+    --background-color: #fec536;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+}
+
+.bgred {
+    --fleck-seed: 123447;
+    --fleck-count: 540;
+    --fleck-size-base: 4px;
+
+    --fleck-color-1: #fe9f00;
+    --fleck-color-2: #100b10;
+    --fleck-color-3: #bd0700;
+    --fleck-color-4: #ffe2e0;
+
+    --background-color: #ff380c;
+
+    width: 100%;
+    background-color: var(--background-color);
+    background-image: paint(fleck) !important;
+}
